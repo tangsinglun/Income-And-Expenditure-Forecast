@@ -24,9 +24,9 @@ it properly or efficiently.
     2. Set start and end date in the "Main" worksheet. The start date should be the forecast begining date of the old last worksheet.
     3. Data migration
         - To make it clear. Just copy everything of the old last forecast worksheet to the new forecast very first worksheet. 
-            Detailed Steps:
-        - This step is data migration. copy all the "Assets" values from the old to the new on the very first worksheet. 
-        - Then copy all the expenses "Item and Values" from the old forecast to the new for every worksheet. (I Know this is very cumblesome).
-        - Then copy the debts value from the old forecast to the new forecast on the very first worksheet.
-        - Then copy all the "Revenues" and "Expenses" of the old last forecast to the new forecasts very first page. 
+        * Detailed Steps:
+          - This step is data migration. copy all the "Assets" values from the old to the new on the very first worksheet. 
+          - Then copy all the expenses "Item and Values" from the old forecast to the new for every worksheet. (I Know this is very cumblesome).
+          - Then copy the debts value from the old forecast to the new forecast on the very first worksheet.
+          - Then copy all the "Revenues" and "Expenses" of the old last forecast to the new forecasts very first page. 
     4. Another approach is to copy the old forecast to a new forecast and rename it, and set all the values to 0 "Zeros".
