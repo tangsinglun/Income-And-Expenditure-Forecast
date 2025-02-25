@@ -10,5 +10,5 @@ it properly or efficiently.
 Included is the Income And Forecast Template. For first time user, please copy it and rename it to another file.
 
 # Ussage
-This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. After rename, you just
-need to update the new worksheet name in the "Main" worksheet. 
+1. This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. After rename, you just need to update the new worksheet name in the "Main" worksheet. 
+2. For the Debts. Order Matters, For Debts: If "Order 3" is for HSBC Bank, everytime when you need to make a record for payback. You need to place the item on "Order 3", then it will automatically be  calculated. 
