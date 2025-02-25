@@ -6,8 +6,9 @@ This could also be used for Government Budget, Large Coroperate...etc. The main 
 and values. If those including personal and corporate who are facing debts, this could also be used as a way to handle
 it properly or efficiently.   
 
-Please Note:
+# Income And Expeses Forecast Template.
+Included is the Income And Forecast Template. For first time user, please copy it and rename it to another file.
 
-This is just a tempory action. Intention are not for those well developed or originally economic is healthy. Countries or cities 
-such as Hong Kong for example is not suitable. Even well developed coutries but facing bad economic due to different reasons 
-such as Japan, Brazil, Argentina...etc are suitable and a way to handle their personal income expenditure properly.
+# Ussage
+This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. After rename, you just
+need to update the new worksheet name in the "Main" worksheet. 
