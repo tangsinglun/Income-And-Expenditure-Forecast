@@ -1,4 +1,4 @@
-# Income-Expenditure-Forecast
+# Income Forecast - Your Personal Finance Organizer
 
 ## OverView
 
