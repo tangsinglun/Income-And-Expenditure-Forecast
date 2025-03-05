@@ -12,7 +12,7 @@ In order to use the Forecast calculator, you need Excel Spreadsheet software to 
 There are 2 types of options to choose from, one is paid software (products such as Microsoft 365 or previous version of Microsoft Office products), 
 the other is free software (products such as WPS Office, or libreoffice). 
 
-- Microsoft (paid free for online version) - https://www.microsoft365.com
+- Microsoft (paid free or online version) - https://www.microsoft365.com
 - WPS Office (free) - https://www.wps.com
 - Libreoffice (free) - https://www.libreoffice.org
 
