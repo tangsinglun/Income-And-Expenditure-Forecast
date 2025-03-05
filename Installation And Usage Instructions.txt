@@ -1,0 +1,44 @@
+Installation And Usage Instructions
+
+
+This is an Income Expenditure Forecast Calculator, it forecast your 3 months of your personal income and expenditure. 
+This could also be used for Personal, Government Budget, Large Corporate...etc. The main point is just feed in your own items and values. 
+If those; including personal, government or corporate who are facing debts, this could also be used as a way to handle it properly or efficiently.
+
+
+Software Installation
+
+In order to use the Forecast calculator, you need Excel Spreadsheet software to be installed. 
+There are 2 types of options to choose from, one is paid software (products such as Microsoft 365 or previous version of Microsoft Office products), 
+the other is free software (products such as WPS Office, or libreoffice). 
+
+- Microsoft (paid free for online version) - https://www.microsoft365.com
+- WPS Office (free) - https://www.wps.com
+- Libreoffice (free) - https://www.libreoffice.org
+
+
+Usage
+
+- This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. Please follow the below procedure:
+
+1.Rename your work in the “Main” worksheet.
+2.Rename the Worksheet.
+
+- For the Debts. Order Matters, For Debts: If the first item is for HSBC Bank, every time when you need to make a record for payback. 
+You need to place on the first item, then it will automatically be calculated.  
+
+
+As mentioned, it forecast up to 4 years. After 4 years. To create another new 4 years, please follow the procedures below:
+
+i.Copy the template to another file.
+ii.Rename the file name.
+iii.Set start and end date in the "Main" worksheet. The start date and end date should be the forecast beginning and end date of the previous file last worksheet.
+
+iv.Data migration
+    i.To make it clear. Just copy everything of the previous last forecast worksheet to the new forecast first worksheet.
+    ii.Detailed Steps:
+        i.This step is data migration. copy all the "Assets" values from the previous to the new on the first worksheet.
+        ii.Then copy all the expenses "Item and Values" from the old forecast to the new for every worksheet. (I Know this is very cumblesome).
+        iii.Then copy the debts value from the old forecast to the new forecast on the very first worksheet.
+        iv.Then copy all the "Revenues" and "Expenses" of the previous file last forecast to the new forecasts first worksheet.
+        v.Another approach is to copy the old forecast to a new forecast and rename it, and set all the values to 0 "Zeros" and fill in all the new values.
