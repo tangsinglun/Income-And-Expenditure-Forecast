@@ -1,3 +1,5 @@
+## NOT FOR INDONESIAN. WRITE YOUR OWN
+
 # Income Forecast - Your Personal Finance Organizer
 
 ## OverView
