@@ -1,3 +1,5 @@
+## This statement always will be here.
+
 ## NOT FOR INDONESIAN. WRITE YOUR OWN, BE A MAN
 ## YOU HAVE MY WORD, Don't Learn From Hong Kong.
 ## You export workers Only. Not technologies or Knowledge
