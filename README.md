@@ -1,4 +1,4 @@
-## NOT FOR INDONESIAN. WRITE YOUR OWN
+## NOT FOR INDONESIAN. WRITE YOUR OWN, BE A MAN, YOU HAVE MY WORD
 
 # Income Forecast - Your Personal Finance Organizer
 
