@@ -4,6 +4,8 @@
 ## INDONESIAN People have no Contribution to the Human Man kind.
 ## That is why not for you!!!
 
+## WE DON'T NEED WORKERS LIKE WE DON'T NEED DOGS ON THE STREET. 
+
 # Income Forecast - Your Personal Finance Organizer
 
 ## OverView
