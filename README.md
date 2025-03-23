@@ -1,13 +1,3 @@
-## This statement always will be here.
-
-## NOT FOR INDONESIAN. WRITE YOUR OWN, BE A MAN
-## YOU HAVE MY WORD, Don't Learn From Hong Kong.
-## You export workers Only. Not technologies or Knowledge
-## INDONESIAN People have no Contribution to the Human Man kind.
-## That is why not for you!!!
-
-## WE DON'T NEED WORKERS LIKE WE DON'T NEED DOGS ON THE STREET. 
-
 # Income Forecast - Your Personal Finance Organizer
 
 ## OverView
