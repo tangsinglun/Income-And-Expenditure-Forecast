@@ -11,7 +11,7 @@ it properly or efficiently.
 
  * Included is the Income And Forecast Template. For first time user, please copy it and rename it to another file.
     
-## Ussage
+## Usage
 
 * This forecast template forecast up to 4 years. Inside, You can rename the worksheet to another name. 
   After rename, you just need to update the new worksheet name in the "Main" worksheet. 
