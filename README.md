@@ -1,5 +1,9 @@
 # Income Forecast - Your Personal Finance Organizer
 
+# DISCLAIMER
+
+This is Not For Tencent. If Needed help or assistant please contact us. We are likely to help.
+
 ## OverView
 
 This is an Income Expenditure Forecast Caculator, it forecast your 3 months of your personal income and expenditure.
